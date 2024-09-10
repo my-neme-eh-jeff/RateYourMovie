@@ -5,15 +5,18 @@ RateYourMovie is a full-stack application built with ReactJS for the frontend an
 ## Application Screenshots
 
 ### Homepage
-![Homepage](https://github.com/aryan4codes/RateYourMovie_v2/blob/main/output/Home.png)
+(![Homepage](https://github.com/user-attachments/assets/c02802b7-69f9-40e2-b15b-f7a5c0f8b721)
+)
 *Description: The homepage displays a grid of movie posters, allowing users to browse through available movies.*
 
 ### Trailer Page
-![Trailer Page](https://github.com/aryan4codes/RateYourMovie_v2/blob/main/output/Trailer.png)
+(![Trailer Page](https://github.com/user-attachments/assets/91f995f2-bc76-4f1b-9003-a68cdf635a18)
+)
 *Description: The trailer page shows the movie's trailer along with basic information about the selected movie.*
 
 ### Reviews Page
-![Reviews Page](https://github.com/aryan4codes/RateYourMovie_v2/blob/main/output/Review.png)
+(![Reviews Page](https://github.com/user-attachments/assets/3d6f3969-4607-4587-9197-e3211c4ff706)
+)
 *Description: The reviews page displays user reviews for a specific movie and allows users to submit their own reviews.*
 
 
