@@ -36,8 +36,8 @@ The backend of RateYourMovie is built using Spring Boot and provides RESTful API
 
 The backend is organized into the following main packages:
 
-- `dev.aryannvr.RateYourMovie.movies`: Contains classes related to movie operations
-- `dev.aryannvr.RateYourMovie.reviews`: Contains classes related to review operations
+- `dev.aman.RateYourMovie.movies`: Contains classes related to movie operations
+- `dev.aman.RateYourMovie.reviews`: Contains classes related to review operations
 
 ### Key Components
 
